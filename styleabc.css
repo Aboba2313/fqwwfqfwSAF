@@ -1,0 +1,32 @@
+body {
+    font-size: 20px;
+    background-color: rgb(243, 228, 146);
+}
+
+h1 {
+    background-color: rgb(223, 46, 223);
+    border-radius: 52px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+h2 {
+    background-color: rgb(223, 46, 223);
+    border-radius: 52px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+ol {
+    background-color: rgb(105, 243, 162);
+    color: rgb(0, 0, 0);
+    border-radius: 52px;
+}
+
+li {
+    margin: 13px;
+}
